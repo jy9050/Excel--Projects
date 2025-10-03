@@ -1,28 +1,32 @@
 # Excel Projects 📊
 
-This repository contains my Excel dashboards and data analysis projects.
-
-## 📂 Projects
-
-1. **Employee Performance Dashboard**
-   - Objective: Track employee KPIs and performance trends.
-   - Skills: Pivot Tables, Charts, Conditional Formatting.
-   - File: Employee_Performance_Dashboard.xlsx
-
-2. **Student Performance Analysis**
-   - Objective: Analyze student scores across subjects and demographics.
-   - Skills: Pivot Tables, VLOOKUP, Data Cleaning.
-   - File: Student_Performance.xlsx
-
-3. **Zomato Sales (Excel)**
-   - Objective: Explore sales data using Excel pivot charts.
-   - Skills: Aggregations, Filters, Dashboard Creation.
-   - File: Zomato_Sales.xlsx
+This repository contains my Excel projects and dashboards.  
+Each project includes dataset samples, objectives, and visualizations created with Excel features.
 
 ---
 
-## ⚙️ Skills Demonstrated
-- Advanced Excel Formulas (VLOOKUP, XLOOKUP, INDEX-MATCH)
-- Pivot Tables & Charts
-- Dashboard Building
-- Data Cleaning
+## Projects
+
+### 1. Employee Performance Dashboard
+- **Objective**: Analyze employee KPIs and performance trends.
+- **Skills**: Pivot Tables, Charts, Conditional Formatting
+- **File**: [Employee_Performance.xlsx](Employee_Performance.xlsx)
+- **Preview**: ![Employee Performance](preview/employee_performance.png)
+
+---
+
+### 2. Student Performance Dashboard
+- **Objective**: Track student performance trends and academic scores.
+- **Skills**: Pivot Tables, Charts, Filters
+- **File**: [Student_Performance_Series.xlsx](Student_Performance_Series.xlsx)
+- **Preview**: ![Student Performance](preview/student_performance.png)
+
+---
+
+### 3. Zomato Sales Analysis
+- **Objective**: Analyze restaurant sales, revenue trends, and customer preferences.
+- **Skills**: Pivot Tables, VLOOKUP, Data Cleaning, Charts
+- **File**: [Zomato_Sales_Analysis.xlsx](Zomato_Sales_Analysis.xlsx)
+- **Preview**: ![Zomato Sales](preview/zomato_sales.png)
+
+---
