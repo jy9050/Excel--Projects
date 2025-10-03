@@ -1,31 +1,35 @@
 # Excel Projects 📊
 
-This repository contains my Excel projects and dashboards.  
-Each project includes dataset samples, objectives, and visualizations.
+This repository contains my Excel projects where I have used formulas, pivot tables, charts, and dashboards to analyze data and provide insights.
+
+---
 
 ## Projects
 
-### 1. Employee Performance Dashboard
-- **Objective**: Analyze employee KPIs and performance trends.  
-- **Skills**: Pivot Tables, Charts, Conditional Formatting.  
-- **File**: [Employee_Performance.xlsx](Employee_Performance.xlsx)  
-- **Preview**:  
-  ![Employee Performance](images/employee_performance.png)
+### 1. Amazon Returns Analysis
+- **Objective:** Analyze product return trends to identify reasons for high return rates.  
+- **Skills:** Data Cleaning, Pivot Tables, Charts, Dashboard Design  
+- **File:** [Amazon_Returns_Analysis.xlsx](./Amazon_Returns_Analysis.xlsx)
 
 ---
 
-### 2. Zomato Sales Dashboard
-- **Objective**: Study restaurant sales, revenue, and customer orders.  
-- **Skills**: Data Cleaning, Pivot Charts, Lookup Functions.  
-- **File**: [Zomato_Sales_Sample.xlsx](Zomato_Sales_Sample.xlsx)  
-- **Preview**:  
-  ![Zomato Dashboard](images/zomato_sales.png)
+### 2. Employee Performance Dashboard
+- **Objective:** Build an HR dashboard to track employee performance and KPIs.  
+- **Skills:** Pivot Tables, Data Visualization, Conditional Formatting  
+- **File:** [Employee_Performance_Dashboard.xlsx](./Employee_Performance_Dashboard.xlsx)
 
 ---
 
-### 3. YouTube Analysis Dashboard
-- **Objective**: Track channel growth, views, and audience engagement.  
-- **Skills**: Pivot Tables, Slicers, Data Visualization.  
-- **File**: [YouTube_Analysis_Sample.xlsx](YouTube_Analysis_Sample.xlsx)  
-- **Preview**:  
-  ![YouTube Dashboard](images/youtube_dashboard.png)
+### 3. Student Performance Series
+- **Objective:** Analyze student exam results to identify performance trends and weak areas.  
+- **Skills:** Lookup Functions, Pivot Tables, Trend Analysis  
+- **File:** [Student_Performance_Series.xlsx](./Student_Performance_Series.xlsx)
+
+---
+
+## Skills Demonstrated
+- Data Cleaning  
+- Lookup Functions (VLOOKUP, INDEX-MATCH)  
+- Pivot Tables & Pivot Charts  
+- Dashboard Creation  
+- Data Visualization
